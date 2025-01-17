@@ -1,6 +1,6 @@
 package Loops;
 
-public class DoWhileLoop {
+public class P2_DoWhileLoop {
 
     public void powerOfN(){
         int n = 1;
@@ -12,7 +12,7 @@ public class DoWhileLoop {
     }
 
     public static void main(String[] args) {
-        DoWhileLoop doWhileLoop = new DoWhileLoop();
-        doWhileLoop.powerOfN();
+        P2_DoWhileLoop p2DoWhileLoop = new P2_DoWhileLoop();
+        p2DoWhileLoop.powerOfN();
     }
 }

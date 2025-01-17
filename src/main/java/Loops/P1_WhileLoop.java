@@ -1,6 +1,6 @@
 package Loops;
 
-public class WhileLoop {
+public class P1_WhileLoop {
 
     public void powerOfN(){
         int n=1;
@@ -19,8 +19,8 @@ public class WhileLoop {
     }
 
     public static void main(String[] args) {
-        WhileLoop whileLoop = new WhileLoop();
-        whileLoop.powerOfN();
-        whileLoop.infiniteLoop();
+        P1_WhileLoop p1WhileLoop = new P1_WhileLoop();
+        p1WhileLoop.powerOfN();
+        p1WhileLoop.infiniteLoop();
     }
 }
